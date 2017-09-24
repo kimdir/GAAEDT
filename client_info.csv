@@ -1,0 +1,9 @@
+## Defines patient information necessary for design,,
+Weight,660,## Client's total weight
+LegRatio,1.2,## Ratio of femur to tibia length
+FemurLength,660,## Length of femur
+ThighMaxDiam,200,## Maximum allowed diameter for thigh
+ShinMaxDiam,160,## Maximum allowed diameter for shin
+AnkleHeight,4,## Distance from bottom of heel to ankle
+FootWidth,3,## Medial-to-Lateral foot width
+FootLength,10,## Length of foot from heel to toes

@@ -1,0 +1,49 @@
+## File containing the force assignments for each component
+## Denote sections with a "#" followed by a space then the class name governing the attributes following it.
+## Add a blank line after each section to separate classes for readability and to delimit lists.
+## Be sure to add spaces between names and value assigments so that .split() works correctly.
+
+# MainCylinder
+cyl_pressure = 5
+external_axial = 0
+
+# ReceiverCylinder
+cyl_pressure = 4
+
+# HipAdductCylinder
+cyl_pressure = 4
+
+# HipAbductCylinder
+cyl_pressure = 4
+
+# HipExtendCylinder
+cyl_pressure = 4
+
+# HipFlexCylinder
+cyl_pressure = 4
+
+# KneeExtendCylinder
+cyl_pressure = 4
+
+# KneeFlexCylinder
+cyl_pressure = 4
+
+# AnkleExtendCylinder
+cyl_pressure = 4
+
+# AnkleFlexCylinder
+cyl_pressure = 4
+
+# AnkleInternalCylinder
+cyl_pressure = 4
+
+# AnkleExternalCylinder
+cyl_pressure = 4
+
+# AnkleAbductCylinder
+cyl_pressure = 4
+
+# AnkleAdductCylinder
+cyl_pressure = 4
+
+## ~~End of Attributes~~

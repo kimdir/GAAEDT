@@ -1,0 +1,165 @@
+## File containing the attribute assignments for GA classes.
+## Denote sections with a "#" followed by a space then the class name governing the attributes following it.
+## Add a blank line after each section to separate classes for readability and to delimit attribute lists.
+## Begin a derived variable name with ~
+
+## Structural Members
+
+# FemurStructure
+Material
+structure_length
+rib_width
+rib_length
+flange_width
+flange_thickness
+_flange_radius
+core_diameter
+core_inner_diameter
+core_thickness
+mount_thickness
+mount_width
+
+# TibiaStructure
+Material
+structure_length
+core_diameter
+core_inner_diameter
+core_thickness
+rib_width
+rib_length
+flange_width
+flange_thickness
+_flange_radius
+mount_thickness
+mount_width
+
+## Gimbal Structures
+
+# HipGimbal
+Material
+peg_length
+peg_diameter
+_mount_width
+_mount_height
+mount_modifier
+mount_thickness
+
+# KneeGimbal
+Material
+peg_length
+peg_diameter
+_mount_width
+_mount_height
+mount_modifier
+mount_thickness
+
+# AnkleGimbal
+Material
+peg_length
+peg_diameter
+_mount_width
+_mount_height
+mount_modifier
+mount_thickness
+
+## Hydraulic Cylinders
+
+# MainCylinder
+Material
+_inner_diameter
+cyl_length
+cyl_thickness
+base_thickness
+
+# ReceiverCylinder
+Material
+_inner_diameter
+cyl_length
+cyl_thickness
+base_thickness
+
+# HipAdductCylinder
+Material
+inner_diameter
+cyl_length
+cyl_thickness
+base_thickness
+
+# HipAbductCylinder
+Material
+inner_diameter
+cyl_length
+cyl_thickness
+base_thickness
+
+# HipExtendCylinder
+Material
+inner_diameter
+cyl_length
+cyl_thickness
+base_thickness
+
+# HipFlexCylinder
+Material
+inner_diameter
+cyl_length
+cyl_thickness
+base_thickness
+
+# KneeExtendCylinder
+Material
+inner_diameter
+cyl_length
+cyl_thickness
+base_thickness
+
+# KneeFlexCylinder
+Material
+inner_diameter
+cyl_length
+cyl_thickness
+base_thickness
+
+# AnkleExtendCylinder
+Material
+inner_diameter
+cyl_length
+cyl_thickness
+base_thickness
+
+# AnkleFlexCylinder
+Material
+inner_diameter
+cyl_length
+cyl_thickness
+base_thickness
+
+# AnkleInternalCylinder
+Material
+inner_diameter
+cyl_length
+cyl_thickness
+base_thickness
+
+# AnkleExternalCylinder
+Material
+inner_diameter
+cyl_length
+cyl_thickness
+base_thickness
+
+# AnkleAbductCylinder
+Material
+inner_diameter
+cyl_length
+cyl_thickness
+base_thickness
+
+# AnkleAdductCylinder
+Material
+inner_diameter
+cyl_length
+cyl_thickness
+base_thickness
+
+## ~~End of Attributes~~

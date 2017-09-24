@@ -1,0 +1,197 @@
+Name,Treatment,Cost,Density,Tensile Strength ultimate,Yield Strength,Modulus of Elasticity,Poisson's Ratio,ID
+,,US$/lb,lb/in^3,Ksi,Ksi,10^6 Psi,,
+# Plain Carbon and Low Alloy Steels,,,,,,,,
+# Alloy 1006,,,,,,,,
+AISI 1006 Steel, cold drawn,2.91,0.284,47.85,41.325,29.710,0.29,1
+AISI 1006 Steel,hot rolled,2.91,0.284,42.775,23.925,28.986,0.29,2
+# Alloy 1020,,,,,,,,
+AISI 1020 Steel, cold rolled,6.74,0.284,60.9,50.75,29.710,0.29,3
+AISI 1020 Steel, hot rolled,6.74,0.284,55.1,29.725,,0.29,4
+AISI 1020 Steel, normalizaed ,6.74,0.284,63.8,50.025,28.986,0.29,5
+AISI 1020 Steel,annealed ,6.74,0.284,57.275,42.775,28.986,0.29,6
+# Alloy 1040,,,,,,,,
+AISI 1040 Steel, Cold drawn,2.14,0.283,84.825,74.675,28.986,0.29,7
+AISI 1040 Steel,Hot rolled,2.14,0.283,76.125,42.05,28.986,0.29,8
+AISI 1040 Steel,annealed ,2.14,0.283,74.675,50.75,28.986,0.29,9
+AISI 1040 Steel,normalized ,2.14,0.283,86.275,53.65,28.986,0.29,10
+# Alloy 1090,,,,,,,,
+AISI 1090 Steel, annealed,7.77,0.284,100.92,78.3,29.710,0.29,11
+AISI 1090 Steel, hot rolled,7.77,0.284,121.945,66.7,28.986,0.29,12
+# Alloy 1095,,,,,,,,
+AISI 1095 Steel,normalized ,7.77,0.284,147.175,73.225,29.710,0.29,13
+AISI 1095 Steel, annealed ,7.77,0.284,96.425,55.1,29.710,0.29,14
+# Alloy 1340,,,,,,,,
+AISI 1340 Steel,annealed ,N/A,0.284,101.935,62.93,28.986,0.29,15
+AISI 1340 Steel, normalized ,N/A,0.284,120.93,80.91,28.986,0.29,16
+AISI 1340 Steel, oil quenched ,N/A,0.284,137.895,120.93,28.986,0.29,17
+# Alloy 4027,,,,,,,,
+AISI 4027 Steel,annealed,N/A,0.284,74.675,47.125,29.710,0.29,18
+AISI 4027 Steel,normalized,N/A,0.284,92.8,60.9,29.710,0.29,19
+AISI 4027 Steel,water quenched ,N/A,0.284,150.075,132.965,29.710,0.29,20
+# Alloy 4140,,,,,,,,
+AISI 4140 Steel,annealed ,3.36,0.284,94.975,60.175,29.710,0.29,21
+AISI 4140 Steel, normalized ,3.36,0.284,147.9,94.975,29.710,0.29,22
+AISI 4140 Steel, oil quenched,3.36,0.284,155.875,142.97,29.710,0.29,23
+# Alloy 4340,,,,,,,,
+AISI 4340 Steel,annealed,N/A,0.284,108.025,68.15,29.710,0.29,24
+AISI 4340 Steel, normalized,N/A,0.284,185.89,124.99,29.710,0.29,25
+AISI 4340 Steel,oil quenched ,N/A,0.284,175.015,166.025,29.710,0.29,26
+# Alloy 5140,,,,,,,,
+AISI 5140 Steel, annealed,N/A,0.284,82.65,42.775,29.710,0.29,27
+AISI 5140 Steel, normalized,N/A,0.284,114.985,68.15,29.710,0.29,28
+AISI 5140 Steel,oil quenched,N/A,0.284,140.94,121.945,29.710,0.29,29
+# Alloy 8630,,,,,,,,
+AISI 8630 Steel, annealed,2.99,0.284,81.925,53.65,29.710,0.29,30
+AISI 8630 Steel, normalized,2.99,0.284,94.25,61.625,29.710,0.29,31
+AISI 8630 Steel,water quenched ,2.99,0.284,147.175,131.95,29.710,0.29,32
+# Stainless Steels,,,,,,,,
+# Alloy 302,,,,,,,,
+Stainless Steel 302, annealed,9,0.284,89.9,39.875,27.971,0.25,33
+Stainless Steel 302, 25% hardened ,9,0.284,124.7,74.675,27.971,0.25,34
+Stainless Steel 302,Cold rolled,9,0.284,84.825,36.975,27.971,0.25,35
+# Alloy 316,,,,,,,,
+Stainless Steel 316, annealed,17.87,0.289,84.1,42.05,27.971,0.27,36
+Stainless Steel 316,soft tempered,17.87,0.289,99.905,74.675,27.971,0.27,37
+# Alloy 330,,,,,0,,,
+Stainless Steel 330,Cold rolled,N/A,0.289,84.97,42.05,28.551,0.27,38
+Stainless Steel 330, annealed,N/A,0.289,79.75,37.7,28.551,0.27,39
+# Alloy 405,,,,,,,,
+Stainless Steel 405,Cold rolled,394.79,0.282,68.005,40.02,28.986,0.27,40
+Stainless Steel 405,Annealed,394.79,0.282,64.96,40.02,28.986,0.27,41
+# Alloy 434,,,,,,,,
+Stainless Steel 434,Annealed,N/A,0.282,74.965,50.025,28.986,0.27,42
+# Alloy 660,,,,,,,,
+Stainless Steel 660,Cold rolled,N/A,0.286,146.015,101.935,28.986,0.27,43
+# Alloy 17-7PH,,,,,,,,
+Stainless Steel 17-7 PH,Precipitation hardened,16.39,0.282,239.25,230.55,29.565,0.27,44
+Stainless Steel 17-7 PH, cold rolled,16.39,0.282,200.1,175.45,29.565,0.27,45
+# Cast Irons,,,,,,,,
+# Ductile Cast Irons,,,,,,,,
+Ductile Cast Iron, grade 60-40-18,N/A,0.258,66.845,47.705,24.493,0.29,46
+Ductile Cast Iron,grade 65-45-12,N/A,0.258,67.28,48.14,24.348,0.29,47
+Ductile Cast Iron, grade 120-90-02,N/A,0.258,141.23,125.28,23.768,0.28,48
+Ductile Cast Iron, grade 80-55-06,N/A,0.258,81.055,52.49,24.348,0.31,49
+# Aluminum Alloys,,,,,,,,
+# Alloy 1100,,,,,,,,
+Aluminum Alloy 1100,Annealed,40.85,0.0979,13.05,5.075,10.000,0.33,50
+Aluminum Alloy 1100,H12 Temper,40.85,0.0979,15.95,14.935,10.000,0.33,51
+Aluminum Alloy 1100,H14 Temper,40.85,0.0979,17.98,16.965,10.000,0.33,52
+# Alloy 2024,,,,,,,,
+Aluminum Alloy 2024,Annealed,17.5,0.1,,,10.580,0.33,53
+Aluminum Alloy 2024,T3 Temper,17.5,0.1,70.035,50.025,10.580,0.33,54
+Aluminum Alloy 2024,T4 Temper,17.5,0.1,68.005,46.98,10.580,0.33,55
+Aluminum Alloy 2024,T6 Temper,17.5,0.1,61.915,50.025,10.435,0.33,56
+# Alloy 6061,,,,,,,,
+Aluminum Alloy 6061,Annealed,10.25,0.0975,17.98,7.975,10.000,0.33,57
+Aluminum Alloy 6061,T4 Temper,10.25,0.0975,34.945,21.025,10.000,0.33,58
+Aluminum Alloy 6061,T6 Temper,10.25,0.0975,44.95,40.02,10.000,0.33,59
+Aluminum Alloy 6061,T8 Temper,10.25,0.0975,44.95,40.02,10.000,0.33,60
+# Alloy 7075,,,,,,,,
+Aluminum Alloy 7075,Annealed,19.06,0.102,33.06,14.935,10.435,0.33,61
+Aluminum Alloy 7075,T6 Temper,19.06,0.102,82.94,72.935,10.435,0.33,62
+# Alloy 8001,,,,,,,,
+Aluminum Alloy 8001,Annealed,N/A,0.0994,15.95,5.8,10.145,0.33,63
+# Alloy 8090,,,,,,,,
+Aluminum Alloy 8090,T3 Temper,N/A,0.0918,49.3,30.45,11.159,0.33,64
+# Copper Alloys,,,,,,,,
+"# Electrolytic tough pitch Copper, (C11000) ",,,,,,,,
+"Electrolytic tough pitch Copper, (C11000) ",Cold Worked,6.6,0.321,50.025,44.95,17.681,0.33,65
+"# Berillium Copper, (C17000)",,,,,,,,
+"Berillium Copper, (C17000)",TH04  Temper,N/A,0.298,189.95,166.75,16.667,0.3,66
+"Berillium Copper, (C17000)",TH01 Temper,N/A,0.298,172.55,160.95,16.667,0.3,67
+"# Cartridge Brass, (C26000)",,,,,,,,
+"Cartridge Brass, (C26000)",H00 Temper,29.59,0.308,58,45.675,15.942,0.375,68
+"Cartridge Brass, (C26000)",H04 Temper,29.59,0.308,76.125,63.075,15.942,0.375,69
+"# Muntz metal, (C28000)",,,,,,,,
+"Muntz metal, (C28000)", H00  Temper,8.68,0.303,60.175,34.8,15.217,0.346,70
+"Muntz metal, (C28000)", H02  Temper,8.68,0.303,70.325,50.025,15.217,0.346,71
+"# Free-Cutting Brass, (C36000)",,,,,,,,
+"Free-Cutting Brass, (C36000)",H01 Temper ,6.24,0.307,55.825,44.95,14.058,0.311,72
+"Free-Cutting Brass, (C36000)",H02 Temper ,6.24,0.307,58,44.95,14.058,0.311,73
+"# Chromium Copper, (C18500)",,,,,,,,
+"Chromium Copper, (C18500)",TH04 Temper ,N/A,0.321,76.85,65.25,18.841,0.3,74
+"Chromium Copper, (C18500)",TH04 Temper ,N/A,0.321,68.875,63.075,18.841,0.3,75
+"# 90-10 Bronze, (C22000)",,,,,,,,
+"90-10 Bronze, (C22000)",H01 Temper ,13.53,0.318,44.95,34.8,16.667,0.307,76
+"90-10 Bronze, (C22000)",H04 Temper ,13.53,0.318,60.9,53.65,16.667,0.307,77
+"90-10 Bronze, (C22000)",H08 Temper ,13.53,0.318,71.775,61.625,16.667,0.307,78
+"# Gliding Copper, (C21000)",,,,,,,,
+"Gliding Copper, (C21000)", Quarter Hard ,N/A,0.32,42.05,31.9,16.667,0.307,79
+"Gliding Copper, (C21000)", Half Hard ,N/A,0.32,47.85,39.875,16.667,0.307,80
+# Magnesium Alloys,,,,,,,,
+# Alloy AZ31B,,,,,,,,
+Magnesium Alloy AZ31B, Extruded ,11.06,0.0639,37.7,29,6.522,0.35,81
+Magnesium Alloy AZ31B, Annealed ,11.06,0.0639,36.975,21.75,6.522,0.35,82
+Magnesium Alloy AZ31B,Hard rolled ,11.06,0.0639,42.05,31.9,6.522,0.35,83
+# Alloy AZ63,,,,,,,,
+Magnesium Alloy AZ63,F Temper,N/A,0.0661,29,14.065,6.522,0.35,84
+Magnesium Alloy AZ63,T6 Temper,N/A,0.0661,39.875,18.85,6.522,0.35,85
+Magnesium Alloy AZ63,T4 Temper,N/A,0.0661,39.875,14.065,6.522,0.35,86
+# Alloy AZ91E,,,,,,,,
+Magnesium Alloy AZ91E,F Temper,N/A,0.0654,23.925,14.065,6.522,0.35,87
+Magnesium Alloy AZ91E,T4 Temper,N/A,0.0654,39.875,13.05,6.522,0.35,88
+Magnesium Alloy AZ91E,T6 Temper,N/A,0.0654,39.875,21.025,6.522,0.35,89
+# Nickel Alloys,,,,,,,,
+# Nickel-Commercially Pure,,,,,,,,
+Nickel,As Cast,39.02,0.321,45.965,8.555,30.000,0.31,90
+# Titanium Alloys,,,,,,,,
+# Titanium-Commercially Pure,,,,,,,,
+Titanium,As cast,57.77,0.163,31.9,20.3,16.812,0.34,91
+# AlloyTi-6Al-2Nb-1Ta-0.8Mo,,,,,,,,
+Titanium AlloyTi-6Al-2Nb-1Ta-0.8Mo, as-rolled,N/A,0.162,120.35,110.2,16.957,0.31,92
+Titanium AlloyTi-6Al-2Nb-1Ta-0.8Mo,Annealed,N/A,0.162,120.35,102.95,16.667,0.31,93
+# Miscellaneous Alloys,,,,,,,,
+Kovar Alloy,,N/A,0.302,74.965,50.025,20.000,0.317,94
+# Invar,,,,,,,,
+Invar,Alloy 32-5 (Cold drawn),15,0.294,70.035,40.02,21.014,0.23,95
+Invar,Alloy 36 Alloy (Cold Drawn),15,0.291,90.045,70.035,21.449,0.23,96
+# Haynes 25,,,,,,,,
+Hayness 25,cold rolled and annealed,40,0.33,145.725,68.875,32.609,0.24,97
+Hayness 25,hot rolled and annealed,40,0.33,147.175,73.225,32.609,0.24,98
+# Biodur,,,,,,,,
+Co-Cr-Ni Alloy,,N/A,0.3,124.7,75.4,27.536,0.226,99
+INCONEL (Cold Rolled),,38,0.291,109.765,55.535,30.435,0.382,100
+ INCOLOY 903,,N/A,0.298,189.95,159.5,21.304,0.239,101
+ INCONEL 725 (Annealed),,14,0.3,123.975,61.915,29.565,0.31,102
+Berylium S-200 ,,400,0.0666,110.925,60.03,43.913,0.14,103
+Tungsten,,4,0.697,142.1,108.75,57.971,0.28,104
+# Noble Metals,,,,,,,,
+Rhenium,,N/A,0.76,155.15,42.05,67.971,0.296,105
+Niobium,,N/A,0.31,28.275,15.225,14.928,0.38,106
+# Polymers,,,,,,,,
+# Epoxies,,,,,,,,
+Nylon 66 Unreinforced,,14.2,0.03955,8.99,9.135,0.304,0.39,107
+Phenolic (Unreinforced),,10,0.0695,8.12,7.54,1.014,N/A,108
+Polybutylene terepthalate (PBT),,5,0.04895,7.975,9.715,1.739,N/A,109
+# Polycarbonate (PC),,,,,,,,
+Polycarbonate,Molded,7.47,0.04735,9.425,9.425,0.333,0.36,110
+Polyester (Rigid),,7.25,0.05965,8.41,10.15,0.507,N/A,111
+# Polyetheretherketone (PEEK),,,,,,,,
+Polyetheretherketone (PEEK), Glass Fiber Filled,N/A,0.0533,20.3,14.21,3.043,0.45,112
+# Polyethylene Terephthalate (PET),,,,,,,,
+Polyethylene Terephthalate (PET),30% Glass Reinforced,N/A,0.05765,19.865,20.445,1.449,0.4,113
+# Polyethylene (Molded),,,,,,,,
+Polyethylene - Molded,Low Density ,N/A,0.0345,2.32,2.32,0.036,0.38,114
+Polyethylene - Molded,Medium Density,11.3,0.0339,3.625,2.175,0.072,N/A,115
+Polyethylene - Molded,High Density ,N/A,0.0419,4.35,2.32,0.130,N/A,116
+# Acrylonitrile Butadiene Styrene (ABS),,,,,,,,
+Acrylonitrile Butadiene Styrene (ABS), Molded,13.84,0.04025,6.815,6.67,0.348,N/A,117
+Acrylonitrile Butadiene Styrene (ABS), 40% Glass Fiber Filled,N/A,0.05155,11.6,15.95,1.304,N/A,118
+Acrylonitrile Butadiene Styrene (ABS), 40% Carbon Fiber Filled,N/A,0.04715,16.675,17.4,3.188,N/A,119
+# Polymethyl Methacrylate (PMMA),,,,,,,,
+Polymethyl Methacrylate (PMMA),Unreinforced,3.25,0.04225,8.99,10.005,0.420,N/A,120
+Polymethyl Methacrylate (PMMA),Glass Fiber Reinforced,N/A,0.0522,15.515,0,1.333,N/A,121
+# Polypropylene (PP),,,,,,0.000,,
+Polypropylene (PP),Unreinforced,2.58,0.03865,7.25,4.06,0.326,N/A,122
+Polypropylene (PP), 10% Glass Fiber Filled,N/A,0.04265,5.22,5.945,0.543,N/A,123
+Polypropylene (PP), 10% Carbon Fiber filled,N/A,0.0343,3.77,,0.688,N/A,124
+Polystyrene,,15.05,0.0381,6.525,6.67,0.471,0.33,125
+Polytetrafluoroethylene (PTFE),,22,0.0804,3.625,2.755,0.087,0.46,126
+# Polyvinyl Chloride (PVC),,,,,,,,
+Polyvinyl Chloride (PVC) Unreinforced,,15.12,0.04715,6.815,5.51,0.449,0.38,127
+Styrene Acrylonitrile,,N/A,0.04195,9.425,9.425,0.536,N/A,128
+Cellulose Acetate,,N/A,0.04625,4.785,3.77,0.246,N/A,129
+Polyacetal ,,N/A,0.0502,8.7,10.005,0.348,0.35,130
+Acetal Copolymer,,N/A,0.04915,7.54,7.54,0.333,N/A,131
+Polyphenylene Sulfide Molded,,N/A,0.0567,13.775,987.305,0.507,N/A,132
+Polysulfone,,24.75,0.045,10.585,10.73,0.377,N/A,133
